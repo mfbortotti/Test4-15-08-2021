@@ -1,0 +1,5 @@
+//This program will access the tables and get the report as:
+//- Descending order by grade
+//- If there are more than one student with the same grade (8-10) assigned to them, sort those students in particular by their names in alphabetical order. 
+//- Finally, if the grade is less than 8, use "NULL" as the name and list them in grades in descending order. 
+//- If there are more than one student with the same grade (1-7) assigned to them, sort those students in particular by their grades in ascending order.
