@@ -1,0 +1,3 @@
+SELECT Name, Value_, Grade
+FROM Students, Notes
+WHERE ((Students.Value_) Between `Min_Value` and `Max_Value`) ORDER BY Value_ desc;
